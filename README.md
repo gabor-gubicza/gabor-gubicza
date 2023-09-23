@@ -15,6 +15,7 @@ Hi, I'm Gabor, I'm a Hardware Engineer with a backgroud in:
 - 3D animation
 
 I decided to transition to Software Engineering, wish me luck
+
 September 2023
 
 <!---
