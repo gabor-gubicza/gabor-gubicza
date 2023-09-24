@@ -13,8 +13,9 @@ Hi, I'm Gabor, I'm a Hardware Engineer with a backgroud in:
 - Robotics
 - Graphics design
 - 3D animation
+- Entrepreneurship
 
-I decided to transition to Software Engineering, wish me luck
+I decided to transition my career to Software Engineering, wish me luck.
 
 September 2023
 
