@@ -7,15 +7,15 @@
 --->
 
 Hi, I'm Gabor, I'm a Hardware Engineer with a backgroud in:
-- PCB and product design
+- Electronics, PCB and product design
 - Mechanical Engineering
 - Scientific projects
 - Robotics
 - Graphics design
 - 3D animation
-- Entrepreneurship
+- Entrepreneurship, Business Administration
 
-I decided to transition my career to Software Engineering, wish me luck.
+I decided to expand my career into Software Engineering, wish me luck.
 
 September 2023
 
